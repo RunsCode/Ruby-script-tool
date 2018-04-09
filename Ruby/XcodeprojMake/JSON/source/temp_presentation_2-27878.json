@@ -3065,6 +3065,822 @@
     {
       "dest": "2-27878",
       "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580929,
+        "cursorY": 300,
+        "cursorX": 448
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580824,
+        "cursorY": 295,
+        "cursorX": 451
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580724,
+        "cursorY": 278,
+        "cursorX": 468
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580614,
+        "cursorY": 272,
+        "cursorX": 471
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580504,
+        "cursorY": 250,
+        "cursorX": 567
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2680,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981580384,
+        "cursorY": 181,
+        "cursorX": 718
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581904,
+        "cursorY": 378,
+        "cursorX": 165
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581814,
+        "cursorY": 336,
+        "cursorX": 384
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581364,
+        "cursorY": 313,
+        "cursorX": 436
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581264,
+        "cursorY": 309,
+        "cursorX": 442
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581164,
+        "cursorY": 305,
+        "cursorX": 445
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2681,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981581053,
+        "cursorY": 302,
+        "cursorX": 446
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582904,
+        "cursorY": 326,
+        "cursorX": 301
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582784,
+        "cursorY": 318,
+        "cursorX": 332
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582678,
+        "cursorY": 312,
+        "cursorX": 494
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582564,
+        "cursorY": 313,
+        "cursorX": 503
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582459,
+        "cursorY": 318,
+        "cursorX": 275
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582354,
+        "cursorY": 327,
+        "cursorX": 157
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582254,
+        "cursorY": 336,
+        "cursorX": 156
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582144,
+        "cursorY": 348,
+        "cursorX": 156
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2682,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981582044,
+        "cursorY": 376,
+        "cursorX": 164
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583874,
+        "cursorY": 320,
+        "cursorX": 145
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583783,
+        "cursorY": 321,
+        "cursorX": 128
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583693,
+        "cursorY": 322,
+        "cursorX": 127
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583469,
+        "cursorY": 323,
+        "cursorX": 122
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583344,
+        "cursorY": 327,
+        "cursorX": 123
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583219,
+        "cursorY": 329,
+        "cursorX": 179
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583124,
+        "cursorY": 329,
+        "cursorX": 186
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2683,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981583014,
+        "cursorY": 329,
+        "cursorX": 189
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2684,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981584983,
+        "cursorY": 314,
+        "cursorX": 328
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2684,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981584858,
+        "cursorY": 317,
+        "cursorX": 306
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2684,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981584334,
+        "cursorY": 319,
+        "cursorX": 270
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2684,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981584214,
+        "cursorY": 320,
+        "cursorX": 248
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2684,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981584004,
+        "cursorY": 320,
+        "cursorX": 146
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2685,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981585983,
+        "cursorY": 317,
+        "cursorX": 447
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2685,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981585643,
+        "cursorY": 318,
+        "cursorX": 407
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2685,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981585524,
+        "cursorY": 318,
+        "cursorX": 448
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2685,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981585424,
+        "cursorY": 319,
+        "cursorX": 461
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2685,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981585304,
+        "cursorY": 314,
+        "cursorX": 363
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586983,
+        "cursorY": 326,
+        "cursorX": 292
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586923,
+        "cursorY": 326,
+        "cursorX": 293
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586763,
+        "cursorY": 331,
+        "cursorX": 300
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586683,
+        "cursorY": 331,
+        "cursorX": 303
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586503,
+        "cursorY": 331,
+        "cursorX": 304
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586388,
+        "cursorY": 328,
+        "cursorX": 418
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586293,
+        "cursorY": 318,
+        "cursorX": 456
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586183,
+        "cursorY": 318,
+        "cursorX": 454
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2686,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981586093,
+        "cursorY": 318,
+        "cursorX": 452
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587763,
+        "cursorY": 313,
+        "cursorX": 457
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587683,
+        "cursorY": 313,
+        "cursorX": 396
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587538,
+        "cursorY": 313,
+        "cursorX": 388
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587473,
+        "cursorY": 317,
+        "cursorX": 351
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587294,
+        "cursorY": 325,
+        "cursorX": 290
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2687,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981587053,
+        "cursorY": 326,
+        "cursorX": 290
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2688,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981588494,
+        "cursorY": 228,
+        "cursorX": 756
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2688,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981588373,
+        "cursorY": 310,
+        "cursorX": 428
+      },
+      "type": 261
+    },
+    {
+      "dest": "2-27878",
+      "source": "19681",
+      "second": 2688,
+      "data": {
+        "presentationId": "p_f20e33c17f44456fa361d1518f2cdbd0",
+        "diameter": 5,
+        "roomId": "2-27878",
+        "timestamp": 1521981588253,
+        "cursorY": 321,
+        "cursorX": 435
+      },
+      "type": 261
+    }
+  ],
+  [
+    {
+      "dest": "2-27878",
+      "source": "19681",
       "second": 2944,
       "data": {
         "presentationId": "p_8fb64441c6df401d8d3650d8f0f807a4",

@@ -4,7 +4,7 @@ Dir[File.dirname(__FILE__) + '/record_origin_presentation_model.rb'].each {|file
 
 class SplitPresentationJson
 
-  TOTAL_TIME = 7500
+  TOTAL_TIME = 9300
 
   def initialize
     load_json
@@ -19,7 +19,7 @@ class SplitPresentationJson
   end
 
   def load_json
-    json = File.read('JSON/source/temp_presentation.json')
+    json = File.read('JSON/source/temp_presentation_2-27878.json')
     @obj = JSON.parse(json)
     puts "json total count = #{@obj.length}"
   end
@@ -38,7 +38,7 @@ class SplitPresentationJson
       object.each { |content|
         second = content['second']
         type = content['type']
-        timestamp = content['data']['timestamp']
+        # timestamp = content['data']['timestamp']
         if type == 261
           magic_wand_sub_array.push(content)
         else
@@ -102,7 +102,7 @@ class SplitPresentationJson
       @presentation_action_model_array.push(presentation_model_sub_array)
       presentation_action_model_array_total_count += presentation_model_sub_array.count
     }
-    # pp @@presentation_action_model_array
+    # pp @presentation_action_model_array
     # puts @presentation_action_model_array
     puts "@presentation_action_model_array count = #{@presentation_action_model_array.length}"
     puts "@presentation_action_model_array_total_count = #{presentation_action_model_array_total_count}"
@@ -169,24 +169,32 @@ class SplitPresentationJson
           end
         end
 
+        if cur_pid == p_share
+          last_content_check(array, content, start_point_second, p_share)
+          next
+        end
+
         end_point_second = content.second
-        next if cur_pid == p_share
         range_key = start_point_second...(end_point_second - start_point_second)
         generate_key_value(cur_pid, range_key)
 
         start_point_second = end_point_second
         cur_pid = p_share
 
-        idx = @presentation_action_model_array.index(array)
-        idx_sub = array.index(content)
-        if idx == (@presentation_action_model_array.length - 1) && idx_sub == (array.length - 1)
-          range_key = start_point_second...(TOTAL_TIME - start_point_second)
-          generate_key_value(p_share, range_key)
-          puts "Fragment Over."
-        end
+        last_content_check(array, content, start_point_second, p_share)
       }
     }
     debug_log
+  end
+
+  def last_content_check(array, content, start_second, p_share)
+    idx = @presentation_action_model_array.index(array)
+    idx_sub = array.index(content)
+    if idx == (@presentation_action_model_array.length - 1) && idx_sub == (array.length - 1)
+      range_key = start_second...(TOTAL_TIME - start_second)
+      generate_key_value(p_share, range_key)
+      puts "Fragment Over."
+    end
   end
 
   def generate_key_value(pid, key)

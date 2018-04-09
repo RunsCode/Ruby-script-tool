@@ -1,17 +1,19 @@
 require 'json'
+require 'pp'
 class JsonSplit
 
   def initialize(source, dest)
     @source = source
     @dest = dest
     read_json
-    init_set
+    # init_set
     remove_null_data
   end
 
   def read_json
     json = File.read(@source)
     @obj = JSON.parse(json)
+    puts @obj.class
     puts "json count = #{@obj.length}"
   end
 
@@ -29,20 +31,23 @@ class JsonSplit
 
   def remove_null_data
     array = []
+    # origin = Array(@obj)
+
+    # puts "origin count = #{origin.length}"
     @obj.each { |arr|
-      if arr.length > 0
-        array.push(arr)
-      end
+      next if arr.empty?
+      array.push(arr)
     }
     puts "array count = #{array.length}"
 
     File.open(@dest,"w") do |f|
       f.write(JSON.pretty_generate(array))
+      # f.write(array.to_sym)
       puts "文件写入: #{@dest} 成功"
     end
   end
 
 end
 
-JsonSplit.new('JSON/source/presentatiom.json','JSON/source/temp_presentation.json')
+JsonSplit.new('JSON/source/presentation_2-27878.json','JSON/source/temp_presentation_2-27878.json')
 # JsonSplit.new('JSON/source/whiteboard.json','JSON/source/temp_whiteboard.json')

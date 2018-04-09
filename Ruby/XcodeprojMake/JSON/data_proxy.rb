@@ -24,7 +24,7 @@ class DataProxy
   end
 
   def save_json(data, file_name)
-    File.open("source/#{file_name}.json","w") do |f|
+    File.open("source/#{file_name}_#{@room_id}.json","w") do |f|
       # f.write(JSON.pretty_generate(data))
       f.write(data.to_sym)
     end
@@ -33,7 +33,7 @@ class DataProxy
 
 end
 
-proxy = DataProxy.new('http://record.olacio.com/record/data/event', '1-2623')
+proxy = DataProxy.new('http://record.olacio.com/record/data/event', '2-27878')
 # proxy.request_json_and_save('chat')
-# proxy.request_json_and_save('presentation')
-proxy.request_json_and_save('whiteboard')
+proxy.request_json_and_save('presentation')
+# proxy.request_json_and_save('whiteboard')
