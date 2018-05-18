@@ -1,5 +1,7 @@
 require 'pathname'
 require 'find'
+
+
 # def hello(a)
 #    puts a
 # end
@@ -11,6 +13,17 @@ require 'find'
 # puts Pathname.new(File.dirname(__FILE__)).realpath
 # puts Pathname.new(File.dirname(__FILE__)).parent.realpath
 # puts Time.now.strftime("%Y-%m-%d %H:%M:%S")
+exec('git status')
+
+# CSV.open(csv_path, "rb").each { |row|
+#   puts row.class
+#   row.each { |item|
+#    # puts  item.class
+#     if item.to_s.start_with?("0x")
+#       puts item
+#     end
+#   }
+# }
 
 # require 'xcodeproj'
 #
@@ -155,7 +168,7 @@ require 'find'
 # end
 # search_root_dir(path)
 
-Dir[File.dirname(__FILE__) + '/Http/http_proxy.rb'].each {|file| require file }
+# Dir[File.dirname(__FILE__) + '/Http/http_proxy.rb'].each {|file| require file }
 
 
 # require 'uri'
@@ -174,4 +187,4 @@ Dir[File.dirname(__FILE__) + '/Http/http_proxy.rb'].each {|file| require file }
 # response = http.request(request)
 # puts response.read_body
 
-puts HttpProxy.get("http://record.olacio.com/record/data/event/1-2623/whiteboard.json")
+# puts HttpProxy.get("http://record.olacio.com/record/data/event/1-2623/whiteboard.json")

@@ -1,0 +1,21 @@
+App Version : 1.1.0 
+iOS Version : 9.1.0
+CPU : arm64
+Slide Address : 0x0000000100000000
+UUID : 072BB681-7415-325B-AF5E-2E78FF711030
+Error :  Collection <__NSCFArray: 0x1269c1d30> was mutated while being enumerated.
+
+0. 0x100042860  __47-[OUPlaybackCacheSession fetchChatsWithRoomId:]_block_invoke in OUPlaybackCacheSession.m  272-277
+1. 0x1000427dc  -[OUPlaybackCacheSession fetchChatsWithRoomId:] in OUPlaybackCacheSession.m  268-272
+2. 0x10005e0b4  -[OUPlaybackProxy fetchChatJsonDataWithRoom:callback:] in OUPlaybackProxy.m  355-357
+3. 0x1000ab8a8  -[OUChatComponent loadData] in OUChatComponent.m  41-44
+4. 0x1000ab7ac  -[OUChatComponent initWithRoom:componentDelegate:] in OUChatComponent.m  25-35
+5. 0x10008dfdc  __33-[OUPlaybackEngine loadComponent]_block_invoke in OUPlaybackEngine.m  385-390
+6. 0x10008df38  -[OUPlaybackEngine loadComponent] in OUPlaybackEngine.m  384-385
+7. 0x10008deb4  -[OUPlaybackEngine components] in OUPlaybackEngine.m  376-381
+8. 0x10008c8b4  -[OUPlaybackEngine initWithRecordInfo:delegate:] in OUPlaybackEngine.m  66-72
+9. 0x10008d494  +[OUPlaybackEngine engineWithRecordInfo:delegate:] in OUPlaybackEngine.m  241-242
+10. 0x1000ad7c8  -[OUPlaybackViewController playbackEngine] in OUPlaybackViewController.m  260-262
+11. 0x1000ac558  -[OUPlaybackViewController initWithRecord:] in OUPlaybackViewController.m  33-37
+12. 0x10004dbbc  __80-[OUClassroomEntranceListViewController pushPlaybackViewControllerWithRoomInfo:]_block_invoke in OUClassroomEntranceListViewController.m  169-178
+13. 0x10008e564  main in main.m  12-14

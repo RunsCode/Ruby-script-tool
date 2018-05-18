@@ -210,7 +210,7 @@ class SplitPresentationJson
     puts "@range_key_map count = #{@second_range_map.length}"
     for k,v in @second_range_map #length = #{k.last},
       if v
-        puts "loc = #{k.first},  end = #{k.first + k.last},  v = #{v.presentationId}"
+        puts "loc = #{k.first},  end = #{k.first + k.last},  v = #{v.slide}"
       else
         puts "loc = #{k.first},  end = #{k.first + k.last},  v = null"
       end
